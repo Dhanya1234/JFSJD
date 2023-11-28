@@ -13,5 +13,5 @@ Welcome to the Junior Full Stack Java Developer Program!
 |At the end of this program, you will learn|     
 |----------|
 |Technical skills |
-|Behavioura skills | 
+|Behavioural skills | 
 
