@@ -8,7 +8,10 @@ Welcome to the Junior Full Stack Java Developer Program!
 - In this course, you will develop all the technical and professional skills necessary to ensure your success in this role. 
 - Full stack developers work in a range of companies with a global clientele to write, automate and deploy code, among other things.
 
-
-
 ## what you will learn
+
+|At the end of this program, you will learn|     
+|----------|
+|Technical skills |
+|Behavioura skills | 
 
